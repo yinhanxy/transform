@@ -88,7 +88,7 @@ export default function App(props) {
         flexDirection="row"
         is="header"
         height={40}
-        backgroundColor="#0e7ccf"
+        backgroundColor="#0e2ccf"
         paddingRight={20}
       >
         <Pane flex={1} display="flex" paddingX={20} className="logo-transform">
